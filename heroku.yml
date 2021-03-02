@@ -2,8 +2,8 @@ build:
 
   docker:
 
-    worker: Dockerfile
+    worker: Procfile
 
 run:
 
-  worker: python3 main.py
+  worker: npm start
