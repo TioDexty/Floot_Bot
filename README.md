@@ -12,3 +12,6 @@ To send Flood, you use the `/flood` command, you need to specify how many messag
 Each message contains the word *Flood* 670 times, because Telegram messages have a maximum length of 4096 characters.
 
 If this number is larger than 15, 15 messages will be sent every 5 minutes, to avoid getting a [429 error](https://httpstatuses.com/429).
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TioDexty/Floot_Bot/)
